@@ -24,7 +24,6 @@
 - JavaScript ES Modules
 - Git / GitHub
 
----
 
 ## 功能特色
 
@@ -70,8 +69,6 @@
 ## 專案架構
 
 ```bash
-## 專案架構（Project Structure）
-
 events-auth-app/
 └── frontend/
     ├── public/
