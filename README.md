@@ -49,7 +49,7 @@
 
 ## 截圖
 
-<img width="2769" height="1473" alt="Image" src="https://github.com/user-attachments/assets/f7edd845-9c42-4308-9a20-c8839460f144" />
+<img width="2804" height="1688" alt="Image" src="https://github.com/user-attachments/assets/976506ef-2bca-465a-837c-3e9cf6df48dc" />
 <img width="2801" height="1696" alt="Image" src="https://github.com/user-attachments/assets/f4da077b-7158-4f33-909d-7ba95fe15625" />
 <img width="2793" height="1693" alt="Image" src="https://github.com/user-attachments/assets/2543a1e0-b0d4-4283-960a-e19b75047f2a" />
 
